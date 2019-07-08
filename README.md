@@ -1,6 +1,6 @@
 # MQTT Camera Client
 
-Connects to an mqtt client, and sends low res video frames from a raspberry pi (as jpegs) with MQTT to the broker. 
+Connects to an mqtt client, and sends low res video frames from a raspberry pi (as jpegs). 
 
 These frames can be processed by a detection hub . See https://github.com/autumn8/mqtt_object_detection_hub
 
